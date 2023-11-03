@@ -1,7 +1,7 @@
 <template>
   <header>simon-chester</header>
   <main>
-      <img alt="Simon Chester" src="images/simon-chester.jpg" class="photo" />
+      <img alt="Simon Chester" src="/images/simon-chester.jpg" class="photo" />
 
       <p>Simon Chester is a software engineer and consultant with an interest in developing new and innovative solutions. Throughout his work and research, Simon has gained extensive knowledge on a wide range of topics including software development and networking.</p>
 
